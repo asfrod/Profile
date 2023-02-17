@@ -5,12 +5,53 @@ Perfil de prueba
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoctaviopb)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align="center">
-  
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-rich)](https://github.com/aoctaviopb/i-am-rich)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-not-rich)](https://github.com/aoctaviopb/i-am-not-rich)|
+|--|--|
+|<details><summary>Preview</summary><br><img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" /></details>|<details><summary>Preview</summary><br><img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" /></details>|
+
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-rich)](https://github.com/aoctaviopb/i-am-rich)
+</b></td>
+    <td><b style="font-size:30px">
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-rich)](https://github.com/aoctaviopb/i-am-rich)
+</b></td>
+ </tr>
+ <tr>
+    <td>
+<details>
+<summary>Preview</summary>
+<br>
+ 
+  <img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" />
+
+</details>
+    </td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
+<div align="">
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-rich)](https://github.com/aoctaviopb/i-am-rich)
   
+ 
+<details>
+<summary>Preview</summary>
+<br>
+ 
   <img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" />
+
+</details>
+
 </div>
+
+  
+
 
 <div align="center">
   
@@ -56,6 +97,12 @@ Perfil de prueba
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=to-do)](https://github.com/aoctaviopb/to-do)
 
 
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 
 
 Este no:
