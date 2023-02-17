@@ -5,14 +5,35 @@ Perfil de prueba
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoctaviopb)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<div align="center">
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-rich)](https://github.com/aoctaviopb/i-am-rich)
+  
+  <img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" />
+</div>
 
+<div align="center">
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-not-rich)](https://github.com/aoctaviopb/i-am-not-rich)
+  
+  <img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/2.png?raw=true" alt="" />
+</div>
 
+<div align="center">
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=my-card)](https://github.com/aoctaviopb/my-card)
+  
+  <img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/3.png?raw=true" alt="" />
+</div>
 
+<div align="center">
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=dice)](https://github.com/aoctaviopb/dice)
+  
+  <img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/4.png?raw=true" alt="" />
+</div>
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=card)](https://github.com/aoctaviopb/card)
 
