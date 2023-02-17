@@ -4,6 +4,43 @@ Perfil de prueba
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoctaviopb)](https://github.com/anuraghazra/github-readme-stats)
 
+|uno|dos|
+|--|--|
+|<div align="center"><a href="https://github.com/aoctaviopb/i-am-rich"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-rich" /></a></div>|<a href="https://github.com/aoctaviopb/i-am-not-rich"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-not-rich" /></a>|
+|<div align="center"><details><summary>Preview I am rich</summary><br><img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" /></details></div>|<details><summary>Preview I am not rich</summary><br><img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" /></details>|
+
+
+
+
+
+<a href="https://github.com/aoctaviopb/i-am-rich">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-rich" />
+</a>
+<a href="https://github.com/aoctaviopb/i-am-not-rich">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-not-rich" />
+</a>
+
+
+<a>
+ <details>
+<summary>Preview I am rich</summary>
+<br>
+  <img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" />
+</details>
+</a>
+<a>
+<details>
+<summary>Preview I am not rich</summary>
+<br>
+  <img width="20%" src="https://github.com/aoctaviopb/Portafolio-AOPB/blob/main/Assets/1.png?raw=true" alt="" />
+</details>
+</a>
+
+
+
+
+
+
 
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-rich)](https://github.com/aoctaviopb/i-am-rich)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aoctaviopb&repo=i-am-not-rich)](https://github.com/aoctaviopb/i-am-not-rich)|
 |--|--|
@@ -108,3 +145,13 @@ This is how you dropdown.
 Este no:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoctaviopb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
